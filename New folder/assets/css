@@ -1,0 +1,43 @@
+h1 {
+    font-family: Roboto Slab;
+    font-size: 27px;
+
+}
+
+p {
+    font-family: raleway;
+    font-size: 18px;
+}
+
+h2 {
+    font-family: Roboto Mono ;
+    font-size: 25px;
+    display:block
+}
+
+h3,h4 {
+    font-family: Roboto Mono ;
+    font-size: 20px;
+}
+
+.first-img {
+    width: 564px;
+    display:inline-block;
+   
+
+}
+
+.text-paragraph {
+    text-align: center
+    display: center;
+}
+
+.title-1 {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.title-2 {
+    margin-top: 25px;
+    margin-bottom: 0px
+}
